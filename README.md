@@ -12,4 +12,5 @@
 
 音声データを映像データにするにはOCS通信とうい特殊な通信が必要でした．その方法は以下の動画を参考にしました．</p>
 参考動画：https://youtu.be/kjC2QEZQa_Y</p>
-使用ファイル：http://ericfairbanks.org/veda_tidal.zip　(MacOSとWindows10での動作は確認できました．Linuxではできるか確認していません．)</p>
+使用ファイル：http://ericfairbanks.org/veda_tidal.zip　</p>
+(MacOSとWindows10での動作は確認できました．Linuxではできるか確認していません．)</p>
